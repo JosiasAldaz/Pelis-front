@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 import Carrusel_Inicial from './components/Carrusel_Inicial';
 import Top_Peliculas from './components/Top_Peliculas';
 import Detalle_Pelicula from './components/Detalle_Pelicula'; // Componente de detalles de película
-import Login from './components/login'; // Importar el componente de Login
+import Login from './components/Login'; // Importar el componente de Login
 import Busqueda from './components/Busqueda'; // Importar el componente de Busqueda
 import { ToastContainer } from 'react-toastify';
 
